@@ -22,8 +22,8 @@
 
 ## 📜 Certifications
 
+- SQLD | `2026.03`
 - 정보처리기사 | `2025.09`
-- SQLD | `2025.03`
 - ADsP | `2025.06`
 
 ## 🛠 Tech Stack
