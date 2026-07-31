@@ -11,6 +11,10 @@
 - **[재고관리 시스템](https://github.com/almang2/inventory-server)** | `2025.08 – 2025.12` · 테크포임팩트 × 알맹상점
 - **[MOOI](https://github.com/Emotion-Storage/mooi-server)** | `2025.06 – 2026.03`
 
+## 🌍 Open Source
+
+- **[apache/airflow](https://github.com/apache/airflow)** | [한국어 번역(i18n) 기여](https://github.com/apache/airflow/pull/70767)
+
 ## 🏆 Awards
 
 - **대상** · 큐시즘 33기 밋업데이 | `2026.06` · [MOONGCHIJANG](https://www.moongchijang.com/)
