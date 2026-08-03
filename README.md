@@ -19,6 +19,7 @@
 
 - **대상** · 큐시즘 33기 밋업데이 | `2026.06` · [MOONGCHIJANG](https://www.moongchijang.com/)
 - **최우수상** · 큐시즘 × 씨그로 주식회사 | `2026.03` · [Litmers](https://litmers.com/)
+- **장려상** · 재단법인NSI | `2026.08` · [ZEROST](https://github.com/team-0st/BE)
 
 ## 👥 Activities
 
