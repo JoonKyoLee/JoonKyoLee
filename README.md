@@ -1,3 +1,11 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=JoonKyoLee&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JoonKyoLee"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🙋🏻 About me
 
 **동작하는 코드보다, 오래 운영할 수 있는 구조를 고민하는 백엔드 개발자입니다.**
